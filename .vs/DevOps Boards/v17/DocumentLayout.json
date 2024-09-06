@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\automapper\\cardmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\automapper\\cardmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\automapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\automapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\automapper\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\automapper\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\dto\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\dto\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\data\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\data\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\migrations\\20240904160124_initcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\migrations\\20240904160124_initcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\fluentvalidation\\registervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\fluentvalidation\\registervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\helper\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\helper\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|c:\\users\\vip\\source\\repos\\devops boards\\devops boards\\extensionauth\\extensionauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38879F30-1DBC-44D7-A4F8-7FE128BD0A5B}|DevOps Boards\\DevOps Boards.csproj|solutionrelative:devops boards\\extensionauth\\extensionauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\CardMapper.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\AutoMapper\\CardMapper.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\CardMapper.cs",
+              "RelativeToolTip": "DevOps Boards\\AutoMapper\\CardMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:30:09.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\Auth.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Dto\\Auth.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\Auth.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Dto\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:09:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\CardDto.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Dto\\CardDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\CardDto.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Dto\\CardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:37:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:49:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\UserMapper.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\AutoMapper\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\UserMapper.cs",
+              "RelativeToolTip": "DevOps Boards\\AutoMapper\\UserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:18:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "DevOps Boards\\Services\\IAuthServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:13:36.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "DevOps Boards\\Controllers\\CardsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:58:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:49:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Model\\Card.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Model\\Card.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Model\\Card.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Model\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:45:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\AuthServices.cs",
+              "RelativeToolTip": "DevOps Boards\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAUwJUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:18:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "DevOps Boards\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:57:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\userViewDto.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\AutoMapper\\userViewDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\AutoMapper\\userViewDto.cs",
+              "RelativeToolTip": "DevOps Boards\\AutoMapper\\userViewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:17:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Dto\\UserDto.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:16:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\CardServices.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Services\\CardServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Services\\CardServices.cs",
+              "RelativeToolTip": "DevOps Boards\\Services\\CardServices.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:30:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Data\\Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Data\\Model\\AppUser.cs",
+              "RelativeToolTip": "DevOps Boards\\Data\\Model\\AppUser.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:54:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240904160124_initCreated.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Migrations\\20240904160124_initCreated.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Migrations\\20240904160124_initCreated.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Migrations\\20240904160124_initCreated.cs",
+              "RelativeToolTip": "DevOps Boards\\Migrations\\20240904160124_initCreated.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:01:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Program.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Program.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Program.cs",
+              "RelativeToolTip": "DevOps Boards\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:02:53.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\appsettings.json",
+              "RelativeDocumentMoniker": "DevOps Boards\\appsettings.json",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\appsettings.json",
+              "RelativeToolTip": "DevOps Boards\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:01:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\FluentValidation\\RegisterValidation.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\FluentValidation\\RegisterValidation.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\FluentValidation\\RegisterValidation.cs",
+              "RelativeToolTip": "DevOps Boards\\FluentValidation\\RegisterValidation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:19:18.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExtensionAuth.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\ExtensionAuth\\ExtensionAuth.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\ExtensionAuth\\ExtensionAuth.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\ExtensionAuth\\ExtensionAuth.cs",
+              "RelativeToolTip": "DevOps Boards\\ExtensionAuth\\ExtensionAuth.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:45:05.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Helper\\JWT.cs",
+              "RelativeDocumentMoniker": "DevOps Boards\\Helper\\JWT.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\DevOps Boards\\DevOps Boards\\Helper\\JWT.cs",
+              "RelativeToolTip": "DevOps Boards\\Helper\\JWT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:05:09.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
